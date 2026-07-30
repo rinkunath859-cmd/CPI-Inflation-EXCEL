@@ -1,0 +1,164 @@
+CPI Inflation Analysis Using Microsoft Excel
+Project Overview
+
+The Consumer Price Index (CPI) is one of the most important economic indicators used to measure inflation and changes in the cost of living. This project analyzes India's CPI data using Microsoft Excel to identify inflation trends, understand category-wise contributions, examine the impact of COVID-19 on inflation, and explore the relationship between crude oil prices and CPI.
+
+The analysis demonstrates how Excel can be used for data cleaning, trend analysis, Pivot Tables, data visualization, and dashboard development to generate meaningful business insights.
+
+Business Problem
+
+Inflation directly affects consumers, businesses, and government policies. Understanding the factors driving inflation helps policymakers make informed decisions regarding monetary policy, pricing strategies, and economic planning.
+
+This case study aims to analyze India's CPI data and identify the major factors contributing to inflation during the selected period.
+
+Project Objectives
+Analyze overall CPI inflation trends.
+Identify major contributors to inflation.
+Study Year-over-Year inflation patterns.
+Analyze food inflation trends.
+Compare inflation before and after the COVID-19 pandemic.
+Evaluate the relationship between crude oil prices and CPI.
+Present insights through interactive Excel dashboards.
+Dataset Information
+
+Dataset: Consumer Price Index (CPI)
+
+Source: National Statistical Office (NSO), Government of India
+
+Tool Used: Microsoft Excel
+
+Data Type: Monthly Consumer Price Index Data
+
+Excel Skills Demonstrated
+Data Cleaning
+Data Formatting
+Sorting and Filtering
+Pivot Tables
+Pivot Charts
+Lookup Functions
+Date Functions
+Conditional Formatting
+Dashboard Design
+Business Analysis
+Data Visualization
+Project Workflow
+Data Collection
+       ↓
+Data Cleaning
+       ↓
+Data Preparation
+       ↓
+Pivot Tables
+       ↓
+Charts & Visualizations
+       ↓
+Business Analysis
+       ↓
+Dashboard Creation
+       ↓
+Insights & Recommendations
+Business Questions
+Question 1 – Contribution of Categories to Inflation
+Objective
+
+Identify the major categories contributing to India's CPI inflation.
+
+Analysis
+
+Category-wise CPI values were analyzed using Pivot Tables and visualized through charts to determine the relative contribution of each category.
+
+Key Insight
+
+The analysis highlights the categories that contributed the most to inflation during the selected period, helping identify sectors that require greater policy attention.
+
+Question 2 – Year-over-Year Inflation Analysis
+Objective
+
+Analyze the Year-over-Year movement of CPI inflation.
+
+Analysis
+
+Year-wise CPI values were compared using Pivot Tables and Line Charts to identify long-term inflation trends.
+
+Key Insight
+
+The analysis reveals how inflation has changed across different years, highlighting periods of higher and lower inflation.
+
+Question 3 – Food Inflation Analysis
+Objective
+
+Study the trend in food inflation over time.
+
+Analysis
+
+Food-related CPI indices were examined using Pivot Tables and trend charts to understand changes in food prices.
+
+Key Insight
+
+Food inflation experienced noticeable fluctuations during the analysis period, reflecting changes in food supply, seasonal demand, and market conditions.
+
+Question 4 – COVID-19 Impact on Inflation
+Objective
+
+Compare inflation before and after the COVID-19 pandemic.
+
+Analysis
+
+The dataset was divided into pre-COVID and post-COVID periods to compare inflation patterns using charts and summary statistics.
+
+Key Insight
+
+The analysis indicates a significant change in inflation patterns after the COVID-19 pandemic due to supply chain disruptions and changing consumer demand.
+
+Question 5 – Crude Oil Price vs CPI Analysis
+Objective
+
+Analyze the relationship between crude oil prices and CPI inflation.
+
+Analysis
+
+Crude oil price trends were compared with CPI trends using line charts to identify possible relationships.
+
+Key Insight
+
+The comparison suggests that changes in crude oil prices may influence inflation by affecting transportation, manufacturing, and logistics costs.
+
+Dashboard
+
+The Excel dashboard summarizes the complete analysis through interactive charts and visualizations.
+
+Dashboard Components include:
+
+Category Contribution Analysis
+Year-over-Year Inflation Trend
+Food Inflation Trend
+COVID-19 Impact Analysis
+Crude Oil vs CPI Comparison
+Key Findings
+Category-wise analysis identified the major contributors to CPI inflation.
+Year-over-Year analysis revealed changing inflation trends across the selected years.
+Food inflation showed noticeable fluctuations during the analysis period.
+Inflation patterns changed significantly following the COVID-19 pandemic.
+Crude oil price movements showed a relationship with CPI inflation during several periods.
+Business Recommendations
+For Policymakers
+Monitor food price inflation regularly.
+Improve supply chain efficiency to reduce price volatility.
+Develop strategies to stabilize fuel prices.
+Continue monitoring inflation indicators for timely policy decisions.
+For Businesses
+Incorporate inflation trends into pricing strategies.
+Improve inventory planning during inflationary periods.
+Monitor commodity and fuel prices to anticipate cost changes.
+Use inflation forecasts to support budgeting and procurement decisions.
+Conclusion
+
+This project demonstrates the practical application of Microsoft Excel for economic data analysis. By combining data cleaning, Pivot Tables, charts, and dashboards, the analysis transforms raw CPI data into actionable insights that support business and policy decision-making. The project highlights essential Excel and analytical skills commonly required for Data Analyst roles.
+
+Tools Used
+Microsoft Excel
+Pivot Tables
+Pivot Charts
+Data Cleaning
+Dashboard Design
+Business Analysis
