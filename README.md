@@ -165,7 +165,7 @@ CPI-Inflation-Analysis-Excel/
 
 # 👨‍💻 Author
 
-**Rinku Nath**
+**Ravindra Nath Rinku **
 
 Aspiring Data Analyst
 
