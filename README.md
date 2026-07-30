@@ -106,7 +106,7 @@ The dashboard provides an interactive summary of:
 - COVID-19 Analysis
 - Crude Oil vs CPI
 
-> *(Add Dashboard.png here)*
+
 
 ---
 
